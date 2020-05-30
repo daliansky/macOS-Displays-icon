@@ -99,7 +99,7 @@ icon() {
 #if [ x"$add" = x"中国" ];then
 #	url="https://coding.net/u/lihaoyun6/p/macOS-Displays-icon/git/raw/master"
 #else
-	url="https://raw.githubusercontent.com/lihaoyun6/macOS-Displays-icon/master"
+	url="https://raw.githubusercontent.com/daliansky/macOS-Displays-icon/master"
 #fi
 lang=$(osascript -e 'user locale of (get system info)')
 #lang=qqq
